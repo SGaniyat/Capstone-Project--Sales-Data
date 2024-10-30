@@ -54,13 +54,13 @@ Select product, sum(revenue)from [dbo].[LITA_Capstone Salesdata]
 Group by product
 Order by 2 desc
 ```
-..............calculate total revenue per product.
+..............4)calculate total revenue per product.
 ```SQL
 select product, sum(Revenue) as RevenuebyProduct from [dbo].[LITA_Capstone Salesdata]
 Group by Product
 ```
 
-................4) calculate monthly sales totals for the current year.
+................5) calculate monthly sales totals for the current year.
 ```SQL
 SELECT orderdate, SUM(REVENUE) as Monthly_Sales from [dbo].[LITA_Capstone Salesdata]
 where orderdate between '2024-01-01' and '2024-12-31'
@@ -69,13 +69,13 @@ Order by orderdate
 ```
 
 
-.................find the top 5 customers by total purchase amount.
+.................6)find the top 5 customers by total purchase amount.
 ```SQL
 select Top 5 Customer_id, Sum(Revenue) as Top_5_Customer_Sales from [dbo].[LITA_Capstone Salesdata]
 Group by Customer_id
 Order by 2 desc
 ```
-...................calculate the percentage of total sales contributed by each region.
+...................7)calculate the percentage of total sales contributed by each region.
 ```SQL
 With region as ( Select region,Sum(Revenue) as Percentage_Sales_Region from [dbo].[LITA_Capstone Salesdata]
 group by region)
@@ -83,7 +83,7 @@ Select  region,(Percentage_Sales_Region * 100.0 / (Select sum(Revenue)from [dbo]
 as Salespercentage from Region
 Order by 2 desc
 ```
- ....................identify products with no sales in the last quarter.
+ ....................8)identify products with no sales in the last quarter.
 ```SQL
 Select Region, (product) from [dbo].[LITA_Capstone Salesdata]
 where Quantity < 0
