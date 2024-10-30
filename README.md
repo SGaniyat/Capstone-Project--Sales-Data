@@ -37,9 +37,10 @@ Steps
    The Anaysis done on the file and query are lsted below;
 
 .............. 1) The total sales for each product category.
-
-SELECT PRODUCT,SUM(Revenue) as Totalsales from[dbo].[LITA_Capstone Salesdata]
+```SQL
+Select Product ,SUM(Revenue) as Totalsales from[dbo].[LITA_Capstone Salesdata]
 Group by Product
+```
 
 .............. 2) Find the number of sales transactions in each region.
 
