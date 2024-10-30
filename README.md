@@ -43,12 +43,14 @@ Group by Product
 ```
 
 .............. 2) Find the number of sales transactions in each region.
-
+```SQL
 Select Region,Count(OrderID) as  NO_SalesTransactions from [dbo].[LITA_Capstone Salesdata]
 Group by Region
+```
 
 ............. 3) find the highest-selling product by total sales value.
-
+```SQL
 Select product, sum(revenue)from [dbo].[LITA_Capstone Salesdata]
 Group by product
 Order by 2 desc
+```
