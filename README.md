@@ -137,3 +137,8 @@ where Quantity < 0
 and month >= 9
 ```
 ![Product with No sales in last quarter](https://github.com/SGaniyat/Capstone-Project--Sales-Data/blob/6620cfd2d9aea15e16c98e2bd8f4203ad13312bc/Product%20with%20no%20Sales.png)
+
+
+## Using Power BI as a Data Analysis tool
+Steps
+<ol type="i">
