@@ -17,8 +17,13 @@ Steps
      <li> Create Revenue column by Multiplying Quantity by Unit price</li>
     </ol>
 
-  
-<h3>2. Data Analysis by Pivot table for data Summary</h3>  
+ <h3>2. Use Excel formulas to calculate metrics such as average sales per product and
+total revenue by region.</h3><br/>
+
+![image](https://github.com/user-attachments/assets/22b6b8f9-780d-49f5-90d9-19627fdd8eab)
+
+
+<h3>3. Data Analysis by Pivot table for data Summary</h3>  
      <ol type="i"> 
    <li>Select all data by Ctrl+ A and click on  Insert on the Ribbon</li>
   <li> Select PivotTable and TableRange. fill approprately. </li>
