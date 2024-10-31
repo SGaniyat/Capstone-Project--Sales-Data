@@ -27,7 +27,7 @@ Steps
 
 ![image](https://github.com/user-attachments/assets/1c5c057f-b033-4b45-b9be-7a5c6492c535),
 
-![image](https://github.com/user-attachments/assets/07b02853-efbf-4352-9ab1-c484a5616aae)
+![image](https://github.com/user-attachments/assets/b8df6d90-b52a-43bd-ba4b-6d3facf52097)
 
 ![image](https://github.com/user-attachments/assets/d5fa18fa-7e94-4720-8954-21d55395edd9)
 
