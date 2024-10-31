@@ -29,7 +29,7 @@ Steps
 
 ![image](https://github.com/user-attachments/assets/b8df6d90-b52a-43bd-ba4b-6d3facf52097)
 
-![image](https://github.com/user-attachments/assets/d5fa18fa-7e94-4720-8954-21d55395edd9)
+![image](https://github.com/user-attachments/assets/b816b4db-3783-45d1-bccb-fab9b525c070)
 
 ![image](https://github.com/user-attachments/assets/ba55fc34-a222-4bc4-ae66-64028b0a5aa9)
 
