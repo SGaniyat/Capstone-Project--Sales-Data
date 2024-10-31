@@ -26,7 +26,17 @@ Steps
      </ol>
 
 ![Revenue by Product](https://github.com/SGaniyat/Capstone-Project--Sales-Data/blob/82728f145d4dd5017de59781df46fee07c8048c1/Revenue%20by%20Product%20SP(3).png)
-     
+     Sales of Product by Year and Month		
+Row Labels	Sum of Revenue	
+Gloves	296,900	
+Hat	316,195	
+Jacket	208,230	
+Shirt	485,600	
+Shoes	613,380	
+Socks	180,785	
+Grand Total	2,101,090	
+![image](https://github.com/user-attachments/assets/c3a02ba2-285b-402e-bbb6-97e2cffd98ac)
+
      
 ### Using SQL as a Data Analysis tool.
 Steps
