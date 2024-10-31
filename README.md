@@ -20,7 +20,13 @@ Steps
  <h3>2. Use Excel formulas to calculate metrics such as average sales per product and
 total revenue by region.</h3><br/>
 
+=AVERAGEIF(range,criteria[average_range])
+ =sUMIF((range,criteria[sum_range])
+
 ![image](https://github.com/user-attachments/assets/22b6b8f9-780d-49f5-90d9-19627fdd8eab)
+
+Total Rvenue	=Average
+![image](https://github.com/user-attachments/assets/f6d39e20-d7c7-4b15-b9c5-7e4b41dce9d9)
 
 
 <h3>3. Data Analysis by Pivot table for data Summary</h3>  
