@@ -25,7 +25,11 @@ Steps
    <li>Create your data summary accordingly to the specification end result </li>
      </ol>
 
-![image](https://github.com/user-attachments/assets/c3a02ba2-285b-402e-bbb6-97e2cffd98ac)
+![image](https://github.com/user-attachments/assets/1c5c057f-b033-4b45-b9be-7a5c6492c535),
+
+![image](https://github.com/user-attachments/assets/07b02853-efbf-4352-9ab1-c484a5616aae)
+
+
 
      
 ### Using SQL as a Data Analysis tool.
