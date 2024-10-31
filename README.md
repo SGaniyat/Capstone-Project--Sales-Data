@@ -24,6 +24,9 @@ Steps
   <li> Select PivotTable and TableRange. fill approprately. </li>
    <li>Create your data summary accordingly to the specification end result </li>
      </ol>
+
+![Revenue by Product](https://github.com/SGaniyat/Capstone-Project--Sales-Data/blob/82728f145d4dd5017de59781df46fee07c8048c1/Revenue%20by%20Product%20SP(3).png)
+     
      
 ### Using SQL as a Data Analysis tool.
 Steps
