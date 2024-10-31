@@ -76,11 +76,10 @@ Steps
 1. The total sales for each product category.
 
 ```SQL
-SELECT PRODUCT,SUM(Quantity) as Totalsales from[dbo].[LITA_Capstone Salesdata]
+SELECT PRODUCT,SUM(Revenue) as Totalsales from[dbo].[LITA_Capstone Salesdata]
 Group by Product
 ```
-![Sales by Product Category](https://github.com/SGaniyat/Capstone-Project--Sales-Data/blob/5c7b25848672645c7253099e6e725577fe6890b7/Sales%20by%20Product.png)
-
+![Sales by Product Category](https://github.com/SGaniyat/Capstone-Project--Sales-Data/blob/6d2c9701bd267f084ff886de30df1a8845e39ccc/Revenue%20by%20Product%20(2).png)
 2. Find the number of sales transactions in each region.
 ```SQL
 Select Region,Count(OrderID) as  NO_SalesTransactions from [dbo].[LITA_Capstone Salesdata]
