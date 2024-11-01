@@ -141,3 +141,9 @@ and month >= 9
 ## Using Power BI as a Data Analysis tool
 Steps
 <ol type="i">
+
+
+
+
+
+![Sales Performance Interactive Dashboard](https://github.com/SGaniyat/Capstone-Project--Sales-Data/blob/98653a461b11dd39c73b7976dce1dee6424e415c/Dashboard%20Sales%20data.pdf)
