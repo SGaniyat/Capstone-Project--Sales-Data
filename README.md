@@ -142,9 +142,19 @@ and month >= 9
 Steps
 <ol type="i">
 
+<li> From Canvas click on Get Data and import your data </li>
+<li> Select data and click on Transform data.</li>
+<li>Remove duplicate data by selecting your entire column and click 'delect duplicate rows.</li>
+<li>Add Custom by clicking Add Custom and fill in the field accordingly to have your revenue coulumns.</li>
+<li>Click on view to ensure your quality,distribution and profile are 100% accurate.</li>
+<li>Close and apply.</li>
+<li>Select Table view and add Mearsure for the Total revenue Value.</li>
+
+
+</ol>
+
 
 ![Sales Performance Interactive Dashboard](https://github.com/user-attachments/assets/10892438-8c68-443b-ac0a-301eda4b0bd9)
 
 
 
-![Sales Performance Interactive Dashboard](https://github.com/SGaniyat/Capstone-Project--Sales-Data/blob/98653a461b11dd39c73b7976dce1dee6424e415c/Dashboard%20Sales%20data.pdf)
