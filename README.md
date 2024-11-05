@@ -52,7 +52,8 @@ total revenue by region.</h3><br/>
 ![image](https://github.com/user-attachments/assets/3d2d5e84-21f4-4e59-9e0b-f8d8cbe55cd8)
 ![image](https://github.com/user-attachments/assets/b50cd8de-b8c9-4895-9c7c-38c8d93dc21d)
 ![image](https://github.com/user-attachments/assets/a18e19c5-a018-4a07-81c0-2ffc8cdf4a17)
-![image](https://github.com/user-attachments/assets/ad047794-88db-41e3-86ce-1c80fe7198a3)
+![image](https://github.com/user-attachments/assets/8fd0820b-f4c5-48d7-b2f8-a07a0b251171)
+
 
 
 
