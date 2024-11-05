@@ -26,7 +26,6 @@ total revenue by region.</h3><br/>
 
 ![image](https://github.com/user-attachments/assets/22b6b8f9-780d-49f5-90d9-19627fdd8eab)
 
-Total Rvenue	=Average
 ![image](https://github.com/user-attachments/assets/f6d39e20-d7c7-4b15-b9c5-7e4b41dce9d9)
 
 
