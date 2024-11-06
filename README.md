@@ -1,6 +1,16 @@
-# Capstone-Project--Sales-Data
 
-### Project Overview
+# Capstone Project: Sales Perormance Analysis Report
+
+### Table of Content
+
+<nav>
+<ul>
+<li><a href="#Section1">Overview</a></li>
+<li><a href="#Section2">Using Microsoft Excel as a Data Analysis tool</a></li>
+<li><a href="#Section3">Using SQL as a Data Analysis tool</a></li>
+<li><a href="#Section4">Using Power BI as a Data Analysis tool</a></li>
+
+<h2 id="Section1">Overview</h2>
 ---
 The project is to  analyze the sales performance of a retail store. Exploring sales data to uncover key insights such as top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
 
@@ -9,7 +19,10 @@ The project is to  analyze the sales performance of a retail store. Exploring sa
 - SQL
 - Power BI
 
-## Using Microsoft Excel as a Data Analysis tool
+
+
+<h2 id="Section2">Using Microsoft Excel as a Data Analysis tool</h2>
+
 Steps
 <h3>1. Data cleaning </h3><br/>
     <ol type="i"> 
@@ -52,9 +65,8 @@ total revenue by region.</h3><br/>
 
 
 
-
-     
-### Using SQL as a Data Analysis tool.
+<h2 id="Section3">Using SQL as a Data Analysis tool</h2>
+    
 Steps
 <ol type="i">
 <li> Cleaning data in excel and save file in CSV.</li>
@@ -133,8 +145,7 @@ and month >= 9
 ```
 ![Product with No sales in last quarter](https://github.com/SGaniyat/Capstone-Project--Sales-Data/blob/6620cfd2d9aea15e16c98e2bd8f4203ad13312bc/Product%20with%20no%20Sales.png)
 
-
-## Using Power BI as a Data Analysis tool
+<h2 id="Section4">Using Power BI as a Data Analysis tool</h2>
 Steps
 <ol type="i">
 
