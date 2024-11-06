@@ -45,17 +45,9 @@ total revenue by region.</h3><br/>
 ![image](https://github.com/user-attachments/assets/ba55fc34-a222-4bc4-ae66-64028b0a5aa9)
 
 <h3>3.Create any other interesting report
-    
-![image](https://github.com/user-attachments/assets/536acfc6-877f-4f7f-92f7-60338e72fa7b)
-![image](https://github.com/user-attachments/assets/a065679f-2320-4364-9eca-12b65a951143)
-![image](https://github.com/user-attachments/assets/3441163f-0197-46f6-8e50-b66ac012598d)
-![image](https://github.com/user-attachments/assets/3d2d5e84-21f4-4e59-9e0b-f8d8cbe55cd8)
-![image](https://github.com/user-attachments/assets/b50cd8de-b8c9-4895-9c7c-38c8d93dc21d)
-![image](https://github.com/user-attachments/assets/a18e19c5-a018-4a07-81c0-2ffc8cdf4a17)
-![image](https://github.com/user-attachments/assets/f7dbbfc9-fa30-4885-ac74-acd3f0dcf1ce)
 
 
-
+  ![Sales Performance Dashboard](https://github.com/SGaniyat/Capstone-Project--Sales-Data/blob/f4912e82367c12f35d54bcb0370741e32cebbbbf/Sales%20Performance%20Dashboard%20Excel.png)
 
 
 
