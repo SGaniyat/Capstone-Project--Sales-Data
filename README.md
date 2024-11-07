@@ -172,11 +172,6 @@ The analysis yielded the following quantitative insights;
 
 Shoes is the highest revenue-generating product of N613,388 i.e 29.2% of the total revenue why Hat is the highest selling product of 15,929 Units followed by Shoes of 14,402 Pairs
 
-The count of sales transactions varied slightly across regions: North: 2,481 transactions East: 2,483 transactions South: 2,480 transactions West: 2,477 transactions Observation: The number of transactions was fairly balanced, with the East region having a marginally higher count. This indicates consistent customer engagement across all regions.
+The Product  varied slightly across regions: North: 2,481 transactions East: 2,483 transactions South: 2,480 transactions West: 2,477 transactions Observation: The number of transactions was fairly balanced, with the East region having a marginally higher count. This indicates consistent customer engagement across all regions.
 
-February and August had the highest monthly sales totals, indicating potential seasonal factors or successful promotional campaigns during those months.
-
-The consistency in high purchase amounts among the top customers highlights an opportunity for loyalty programs or personalized marketing to retain and grow this customer segment.
-
-The South region contributed the most to total sales, making it a key market for targeted campaigns. East also showed significant potential.
-
+The South region had the highest revenue contribution of 44.16% followed by East of 23.13% .
