@@ -52,6 +52,8 @@ total revenue by region.</h3><br/>
 
 ![image](https://github.com/user-attachments/assets/1c5c057f-b033-4b45-b9be-7a5c6492c535),
 
+![image](https://github.com/user-attachments/assets/1e5e85ba-dde0-4132-a9e8-68e1cbfa0026)
+
 ![image](https://github.com/user-attachments/assets/b8df6d90-b52a-43bd-ba4b-6d3facf52097)
 
 ![image](https://github.com/user-attachments/assets/b816b4db-3783-45d1-bccb-fab9b525c070)
@@ -168,7 +170,7 @@ Steps
 
 The analysis yielded the following quantitative insights;
 
-Shoes is the highest revenue-generating product, making them a top focus for marketing and stock optimization.
+Shoes is the highest revenue-generating product of N613,388 i.e 29.2% of the total revenue why Hat is the highest selling product of 15,929 Units followed by Shoes of 14,402 Pairs
 
 The count of sales transactions varied slightly across regions: North: 2,481 transactions East: 2,483 transactions South: 2,480 transactions West: 2,477 transactions Observation: The number of transactions was fairly balanced, with the East region having a marginally higher count. This indicates consistent customer engagement across all regions.
 
